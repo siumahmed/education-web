@@ -3,11 +3,17 @@
     left: 55%;
     right: 55%;
 }
-.bg-green{width: 1440px;
-height: 576px;
+.bg-green{
+width: 1263px;
+height: 600px;
 left: 0px;
 top: 0px;
 background: #F0FFF0;
+}
+.img-changii{
+    padding-left: 20px;
+    padding-right: 50px;
+    width: 100%;
 }
 h6{
     color: #FD511A;
@@ -82,12 +88,58 @@ li{
 }
 .li-head{
     font-size: larger;
-    font-weight: 700;
-    padding-left: 100px 100px 100px 100px;
+    padding-top: 50px;
+}
+footer{
+    color:#fff;
+    background-color: #282531;
+    padding: 50px 0 20px 10px; 
 }
 .copyright{
-    text-align: center;
-    font-size: 12px;
-    
+    font-size: 12px; 
+    padding-top: 100px;
 }
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
