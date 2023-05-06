@@ -1,3 +1,7 @@
+.bg-green{
+    height: 580px;
+    background-color: #F0FFF0;
+}
 #btn{
     border: none;
     color: white;
@@ -5,44 +9,30 @@
     border-radius: 25px;
     background-color: green;
 }
-.bg-green{
-    height: 576px;
-    background-color: #F0FFF0;
-}
 h6{
-color: orange;
-}
+ color: orange;
+ }
 span{
-    color: green;
-}
-.padded{
-    padding: 49px 0px 20px 0px;
-}
-
-.cat1,.cat3,.cat4{
+ color: green;
+ }   
+ .cat1,.cat3,.cat4{
     background-color: #F0FFF0;
     padding: 40px 0;
     border-radius: 10px;
-}
-.cat-item img{
-    margin-bottom: 30px;
-}
-.container{
-    padding-top: 40px;
-}
-.cat-item img{
-    margin-bottom: 30px;
 }
 #shadow  .active{
     box-shadow: 5px 5px 10px gray;
     border-radius: 10px;
     padding: 40px 0;
+} 
+.card-item{
+   padding: 40px;
 }
 .color{
     color: #413960    ;
 }
 .item-foo{
-    font-size: 15px;
+    font-size: 10px;
 }
 .main-text{
     padding: 0 95px;
@@ -51,12 +41,11 @@ span{
    margin-left: 45px;
    margin-top: 10px;
 }
-.container{
-    padding: 40px 20px;
+#footer{
+  margin-bottom: 50px;
 }
 #something{
-    padding-top: 20px;
-   padding-left: 30px;
+    padding-top: 40px;
 }
 #something .nav-link{
     padding: 0 3px;
